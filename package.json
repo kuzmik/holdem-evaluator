@@ -1,0 +1,17 @@
+{
+  "author": "Nick Martini <nick.martini@gmail.com> (https://github.com/nickmartini)",
+  "name": "holdem-evaluator",
+  "description": "Evaluate Texas Holdem hands. Based on David Chen's poker-evaluator (https://github.com/chenosaurus/poker-evaluator)",
+  "version": "0.0.1",
+  "homepage": "http://www.github.com/nickmartini/holdem-evaluator",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nickmartini/holdem-evaluator.git"
+  }
+}
